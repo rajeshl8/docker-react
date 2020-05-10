@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is Lingam React World 
+          This is Lingam learn react World 
         </a>
       </header>
     </div>
